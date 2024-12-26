@@ -1,4 +1,4 @@
-Location Tracking System
+#Location Tracking System
 Sistema web para gestionar personas y sus ubicaciones utilizando Google Maps. Permite registrar, actualizar y eliminar personas, así como visualizar sus ubicaciones de forma individual o grupal en el mapa.
 Tecnologías
 Frontend:

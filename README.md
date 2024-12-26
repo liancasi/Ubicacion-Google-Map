@@ -1,5 +1,8 @@
 # Location Tracking System
 
+![Captura de pantalla 2024-12-26 145810](https://github.com/user-attachments/assets/109ce675-f82a-4389-bff1-0310145e9f37)
+
+
 Sistema web para gestionar personas y sus ubicaciones utilizando Google Maps. Permite registrar, actualizar y eliminar personas, así como visualizar sus ubicaciones de forma individual o grupal en el mapa.
 Tecnologías
 
